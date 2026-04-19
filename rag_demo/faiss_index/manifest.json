@@ -1,0 +1,14 @@
+{
+  "knowledge.txt": {
+    "file_path": "document\\knowledge.txt",
+    "hash": "00d60072d32ea2d935152a5590e640867e7ad0a7c0c40c75a3228d6c8f3e9dea"
+  },
+  "knowledge2.txt": {
+    "file_path": "document\\knowledge2.txt",
+    "hash": "a1b9cc4fc1575f8209820396302ea5cf87e24b955ec76b8872c939c74394663d"
+  },
+  "requirement.txt": {
+    "file_path": "document\\requirement.txt",
+    "hash": "772f10c38e4bfe2d099c78e5f5242c1254c6f5eb9201b370aee74488b0efec10"
+  }
+}
